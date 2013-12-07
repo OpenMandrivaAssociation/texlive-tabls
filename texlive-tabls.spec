@@ -6,7 +6,7 @@
 # catalog-version 3.5
 Name:		texlive-tabls
 Version:	3.5
-Release:	3
+Release:	4
 Summary:	Better vertical spacing in tables and arrays
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/tabls
