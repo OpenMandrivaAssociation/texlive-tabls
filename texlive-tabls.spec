@@ -1,6 +1,6 @@
 Name:		texlive-tabls
 Version:	17255
-Release:	1
+Release:	2
 Summary:	Better vertical spacing in tables and arrays
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/tabls
