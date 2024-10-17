@@ -3,7 +3,7 @@ Version:	17255
 Release:	2
 Summary:	Better vertical spacing in tables and arrays
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/tabls
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/tabls
 License:	OTHER-FREE
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/tabls.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/tabls.doc.r%{version}.tar.xz
